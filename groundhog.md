@@ -1,9 +1,10 @@
 ---
 title: Groundhogs!
 color: fur
+animal: rodent
 ---
 
-### The groundhog Ponders
+### The groundhog ponders
 
 How much ground would a groundhog hog if a ground hog could hog ground?
 
