@@ -3,7 +3,7 @@ title: Groundhogs!
 color: fur
 ---
 
-###The groundhog Ponders
+### The groundhog Ponders
 
 How much ground would a groundhog hog if a ground hog could hog ground?
 
